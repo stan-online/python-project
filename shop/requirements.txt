@@ -1,0 +1,6 @@
+django
+django-registration
+Pillow
+psycopg2
+requests
+uwsgi
